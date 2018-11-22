@@ -2,5 +2,9 @@ this is the firs stuff...
 
 this is some mindblowing stuff
 
+<<<<<<< HEAD
 great news .... more useless lines....
 
+=======
+Tuure, i am not happy wit this collaboration. I should find a more reliable partner.
+>>>>>>> 2357a7b1d764587ca3fb8a671ebbcf6c51daccea
