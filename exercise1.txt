@@ -2,8 +2,7 @@ this is the firs stuff...
 
 this is some mindblowing stuff
 
-<<<<<<< HEAD
-great news .... more useless lines....
+dsdfsfd
 
 =======
 Tuure, i am not happy wit this collaboration. I should find a more reliable partner.
